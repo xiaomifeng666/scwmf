@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1554910797372_0" label="scw" name="scw">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/vx-commons" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/scwmf-manager" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/manager-pojo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/manager-dao" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/scwmf-parent" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/manager-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/manager-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/vx-parent" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1554988354956_1" label="Window Working Set" name="Aggregate for window 1554988354955"/>
+</workingSetManager>

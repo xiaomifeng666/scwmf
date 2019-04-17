@@ -1,0 +1,7 @@
+#Tomcat publish data
+#Wed Apr 17 21:22:10 CST 2019
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Administrator\\.m2\\repository\\org\\springframework\\spring-web\\4.3.8.RELEASE\\spring-web-4.3.8.RELEASE.jar=WEB-INF/lib/spring-web-4.3.8.RELEASE.jar
+org.eclipse.jst.j2ee.server\:manager-pojo=WEB-INF/lib/manager-pojo-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:manager-service=WEB-INF/lib/manager-service-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:vx-commons=WEB-INF/lib/vx-commons-0.0.1-SNAPSHOT.jar
+org.eclipse.jst.j2ee.server\:manager-dao=WEB-INF/lib/manager-dao-0.0.1-SNAPSHOT.jar

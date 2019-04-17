@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;userById&apos; from expression &apos;userService.getUserById(id)&apos;&#x0D;&#x0A;- Original project: &apos;manager-web&apos;&#x0D;&#x0A;- Variable name: &apos;userById&apos;&#x0D;&#x0A;- Destination method: &apos;com.atcsii.scwmf.manager.controller.HelloController.hello()&apos;&#x0D;&#x0A;- Variable expression: &apos;userService.getUserById(id)&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;userById&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/main\/java&lt;com.atcsii.scwmf.manager.controller{HelloController.java" name="userById" replace="true" selection="656 0" stamp="1555430942959" version="1.0"/>
+</session>

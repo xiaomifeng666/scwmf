@@ -1,0 +1,5 @@
+package com.atcsii.scwmf.manager.controller;
+
+public class HelloController {
+
+}

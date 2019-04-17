@@ -1,0 +1,5 @@
+package com.atcsii.scwmf.manager.service;
+
+public interface UserService {
+
+}

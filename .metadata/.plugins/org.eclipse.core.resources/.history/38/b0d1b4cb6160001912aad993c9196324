@@ -1,0 +1,11 @@
+package com.atcsii.scwmf.manager.service.impl;
+
+import org.springframework.stereotype.Service;
+
+import com.atcsii.scwmf.manager.service.UserService;
+
+@Service
+public class UserServiceImpl implements UserService{
+    
+
+}
